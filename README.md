@@ -10,3 +10,18 @@ This is a DBMS project developed using PHP and MySQL.
 - MySQL
 - HTML
 - CSS
+ ## How to Run the Project
+1. Install XAMPP
+2. Start Apache and MySQL
+3. Place the project folder inside htdocs
+4. Import the database in phpMyAdmin
+5. Open http://localhost/online_project in browser
+## Database Tables
+- Student
+- Instructor
+- Course
+- Enrollment
+- Video_Lecture
+- Assessments
+- Study_Material
+- Certificate
